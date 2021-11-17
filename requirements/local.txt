@@ -1,0 +1,11 @@
+-r base.txt
+
+# Code 
+black==21.10b0
+
+# Debug
+ipdb==0.13.9
+
+# Testing
+pytest==6.2.5
+coverage==6.1.2
